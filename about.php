@@ -23,7 +23,7 @@
 		</tr>
 		<tr>
 			<td><b>Почта</b></td>
-			<td> <a href="mailto:evgenia.kuzina89@gmail.com"><?= $userMail ?></a></td>
+			<td><a href="mailto:evgenia.kuzina89@gmail.com"><?= $userMail ?></a></td>
 		</tr>
 		<tr>
 			<td><b>Город</b></td>
